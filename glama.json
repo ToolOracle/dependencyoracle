@@ -1,0 +1,1 @@
+{"name": "DependencyOracle", "description": "DORA Art. 8 ICT dependencies \u2014 10 MCP tools for asset mapping, blast radius, SPOF", "category": "compliance", "tags": ["dora", "dependencies", "asset-mapping", "risk"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/dependency/mcp/"}
