@@ -1,0 +1,5 @@
+name: DependencyOracle
+description: DORA Art. 28/31 ICT Dependencies — 10 tools
+endpoint: https://tooloracle.io/dependency/mcp/
+transport: streamable-http
+license: MIT
